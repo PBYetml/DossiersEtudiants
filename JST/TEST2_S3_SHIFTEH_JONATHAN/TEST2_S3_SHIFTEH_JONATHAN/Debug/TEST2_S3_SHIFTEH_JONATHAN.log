@@ -1,0 +1,2 @@
+﻿  mainFonctionBinaire.cpp
+H:\Année 2\SL228_POBJ\C++\TEST2_S3_SHIFTEH_JONATHAN\mainFonctionBinaire.cpp(66): error C4700: variable locale 'Resolution' non initialisée utilisée

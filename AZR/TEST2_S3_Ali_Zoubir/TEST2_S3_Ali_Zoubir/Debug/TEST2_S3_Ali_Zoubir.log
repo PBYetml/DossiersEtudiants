@@ -1,0 +1,9 @@
+﻿  fonctionAND.cpp
+  FonctionBinaire.cpp
+O:\APPLICATIONS\Echanges_Eleves\ES\SLO2\Zoubir_Ali\Epreuve\POBJ\TEST2_S3_Ali_Zoubir\FonctionBinaire.cpp(47,38): warning C4244:  '=' : conversion de 'double' en 'int', perte possible de données
+  fonctionOR.cpp
+  fonctionXOR.cpp
+  mainFonctionBinaire.cpp
+  Génération de code en cours...
+O:\APPLICATIONS\Echanges_Eleves\ES\SLO2\Zoubir_Ali\Epreuve\POBJ\TEST2_S3_Ali_Zoubir\FonctionBinaire.cpp(83,9): warning C4552:  '-' : résultat de l'expression non utilisé
+  TEST2_S3_Ali_Zoubir.vcxproj -> O:\APPLICATIONS\Echanges_Eleves\ES\SLO2\Zoubir_Ali\Epreuve\POBJ\TEST2_S3_Ali_Zoubir\TEST2_S3_Ali_Zoubir\Debug\TEST2_S3_Ali_Zoubir.exe

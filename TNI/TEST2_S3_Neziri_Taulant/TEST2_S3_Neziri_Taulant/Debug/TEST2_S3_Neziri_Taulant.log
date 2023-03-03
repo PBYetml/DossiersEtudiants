@@ -1,0 +1,5 @@
+﻿  fonctionAND.cpp
+  fonctionOR.cpp
+  mainFonctionBinaire.cpp
+  Génération de code en cours...
+O:\APPLICATIONS\Echanges_Eleves\ES\SLO2\Neziri_Taulant\POBJ\TEST2_S3_Neziri_Taulant\TEST2_S3_Neziri_Taulant\mainFonctionBinaire.cpp(52): error C4700: variable locale 'Resolution' non initialisée utilisée

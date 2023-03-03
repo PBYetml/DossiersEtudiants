@@ -1,0 +1,7 @@
+﻿  fonctionOR.cpp
+  mainFonctionBinaire.cpp
+  Génération de code en cours...
+mainFonctionBinaire.obj : error LNK2019: symbole externe non résolu "public: __thiscall FonctionBinaire::FonctionBinaire(void)" (??0FonctionBinaire@@QAE@XZ) référencé dans la fonction _main
+mainFonctionBinaire.obj : error LNK2019: symbole externe non résolu "public: __thiscall fonctionAND::fonctionAND(void)" (??0fonctionAND@@QAE@XZ) référencé dans la fonction _main
+mainFonctionBinaire.obj : error LNK2019: symbole externe non résolu "public: __thiscall fonctionOR::fonctionOR(void)" (??0fonctionOR@@QAE@XZ) référencé dans la fonction _main
+C:\Users\einfarinasa\Desktop\POBJ\TEST2_S3_FarinasArze_Einar\Debug\TEST2_S3_FarinasArze_Einar.exe : fatal error LNK1120: 3 externes non résolus

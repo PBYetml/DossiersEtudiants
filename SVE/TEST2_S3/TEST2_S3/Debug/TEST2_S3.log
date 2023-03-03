@@ -1,0 +1,8 @@
+﻿  fonctionAND.cpp
+  FonctionBinaire.cpp
+O:\APPLICATIONS\Echanges_Eleves\ES\SLO2\Valiante_SantiagoJohan\POBJ\TEST_POBJ\TEST2_S3\TEST2_S3\FonctionBinaire.cpp(34,37): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
+O:\APPLICATIONS\Echanges_Eleves\ES\SLO2\Valiante_SantiagoJohan\POBJ\TEST_POBJ\TEST2_S3\TEST2_S3\FonctionBinaire.cpp(91,11): warning C4101: 'valBinaire' : variable locale non référencée
+  fonctionOR.cpp
+  mainFonctionBinaire.cpp
+  Génération de code en cours...
+  TEST2_S3.vcxproj -> O:\APPLICATIONS\Echanges_Eleves\ES\SLO2\Valiante_SantiagoJohan\POBJ\TEST_POBJ\TEST2_S3\Debug\TEST2_S3.exe
