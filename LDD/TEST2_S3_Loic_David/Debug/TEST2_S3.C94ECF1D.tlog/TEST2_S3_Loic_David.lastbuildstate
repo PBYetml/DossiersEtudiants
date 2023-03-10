@@ -1,2 +1,2 @@
-#TargetFrameworkVersion=v4.0:PlatformToolSet=v142:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native32Bit:WindowsTargetPlatformVersion=10.0
-Debug|Win32|C:\Users\pd55xhr\OneDrive - Education Vaud\Documents\TE_POBJ\TEST2_S3_Loic_David\|
+PlatformToolSet=v142:VCToolArchitecture=Native32Bit:VCToolsVersion=14.29.30133:TargetPlatformVersion=10.0.19041.0:
+Debug|Win32|C:\Users\phibovey\OneDrive - Education Vaud\POBJ\Epreuves\Epreuves_2022_2023\Projet_CPP\DossiersEtudiants\LDD\TEST2_S3_Loic_David\|
