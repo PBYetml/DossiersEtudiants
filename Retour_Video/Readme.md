@@ -7,7 +7,7 @@
 ## Retour pour CME 
 
 ## Retour pour EFS
-1. retour vidéo 1 concernant les issues [#4](https://github.com/PBYetml/POBJ_SLO2_PRJ_CPP/issues/4) [#11](https://github.com/PBYetml/POBJ_SLO2_PRJ_CPP/issues/11) #12(https://github.com/PBYetml/POBJ_SLO2_PRJ_CPP/issues/12)=> voir [vidéo 1](https://www.swisstransfer.com/d/7e1ef9d3-eb22-4f84-a117-11a92b96a987)
+1. retour vidéo 1 concernant les issues [#4](https://github.com/PBYetml/POBJ_SLO2_PRJ_CPP/issues/4) [#11](https://github.com/PBYetml/POBJ_SLO2_PRJ_CPP/issues/11) [#12](https://github.com/PBYetml/POBJ_SLO2_PRJ_CPP/issues/12)=> voir [vidéo 1](https://www.swisstransfer.com/d/7e1ef9d3-eb22-4f84-a117-11a92b96a987)
 
 ## Retour pour GSM
 1. retour vidéo 1 concernant les issues [#2](https://github.com/PBYetml/POBJ_SLO2_PRJ_CPP/issues/1) [#15](https://github.com/PBYetml/POBJ_SLO2_PRJ_CPP/issues/15) [#16](https://github.com/PBYetml/POBJ_SLO2_PRJ_CPP/issues/16) => voir [vidéo 1](https://www.swisstransfer.com/d/c34d8bb4-5dff-4034-ae34-440b1ae1ef97)
