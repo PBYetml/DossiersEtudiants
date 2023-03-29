@@ -9,7 +9,7 @@
 ## Retour pour EFS
 
 ## Retour pour GSM
-1. retour vidéo 1 concernant les issues #2  #15 #16 => voir [vidéo 1]()
+1. retour vidéo 1 concernant les issues [#2] [#15] [#16 => voir [vidéo 1]()
 
 ## Retour pour JCA
 
