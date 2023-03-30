@@ -3,6 +3,8 @@
 ## Retour pour ASN 
 
 ## Retour pour AZR 
+1. retour vidéo 1 concernant les issues [#17](https://github.com/PBYetml/POBJ_SLO2_PRJ_CPP/issues/17) => voir [vidéo 1]()
+
 
 ## Retour pour CME 
 
