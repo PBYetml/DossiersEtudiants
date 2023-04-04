@@ -1,7 +1,1 @@
-﻿  FonctionBinaire.cpp
-  fonctionAND.cpp
-  fonctionOR.cpp
-  mainFonctionBinaire.cpp
-  Génération de code en cours...
-O:\APPLICATIONS\Echanges_Eleves\ES\SLO2\ChaflaLuzuriaga_JonathanFernando\Epreuves\POBJ\TEST2_S3_CHAFLA_LUZURIAGA\FonctionBinaire.cpp(37,21): warning C4244:  '=' : conversion de 'double' en 'int', perte possible de données
-  TEST2_S3_CHAFLA_LUZURIAGA.vcxproj -> O:\APPLICATIONS\Echanges_Eleves\ES\SLO2\ChaflaLuzuriaga_JonathanFernando\Epreuves\POBJ\TEST2_S3_CHAFLA_LUZURIAGA\Debug\TEST2_S3_CHAFLA_LUZURIAGA.exe
+﻿  TEST2_S3_CHAFLA_LUZURIAGA.vcxproj -> C:\Users\phibovey\OneDrive - Education Vaud\POBJ\Epreuves\Epreuves_2022_2023\Projet_CPP\DossiersEtudiants\JCA\TEST2_S3_CHAFLA_LUZURIAGA\Debug\TEST2_S3_CHAFLA_LUZURIAGA.exe

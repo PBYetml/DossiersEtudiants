@@ -43,6 +43,12 @@ void FonctionBinaire::InsererValeur()
 
 	//-- récupération de la valeur --// 
 	std::cin >> FonctionBinaire::nbDigit;
+	
+	//-- essai PBY -> le 29.03.2023
+	//int test = nbDigit; 
+	//int test2 = this->nbDigit; 
+	// -> INVALIDE FonctionBinaire::test3 = test2; car attribut statique !!!
+		
 	//-- création du nombre limite que peut inserer l'utilisateur --// 
 	FonctionBinaire::limitMaxValue = pow(2,nbDigit);
 
@@ -55,7 +61,7 @@ void FonctionBinaire::InsererValeur()
 	std::cin >> FonctionBinaire::EntreeA;
 	FonctionBinaire::EntreeA = abs(FonctionBinaire::EntreeA);
     //-- test sur la valeur --//
-	if ((FonctionBinaire::EntreeA > FonctionBinaire::limitMaxValue)|| (FonctionBinaire::EntreeA < 0))
+	if ((FonctionBinaire::EntreeA > FonctionBinaire::limitMaxValue) || (FonctionBinaire::EntreeA < 0))
 		FonctionBinaire::EntreeA = FonctionBinaire::limitMaxValue;
 
     //-- message utilisateur --//

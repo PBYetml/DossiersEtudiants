@@ -1,2 +1,7 @@
-﻿  mainFonctionBinaire.cpp
-H:\Année 2\SL228_POBJ\C++\TEST2_S3_SHIFTEH_JONATHAN\mainFonctionBinaire.cpp(66): error C4700: variable locale 'Resolution' non initialisée utilisée
+﻿  fonctionAND.cpp
+  FonctionBinaire.cpp
+C:\Users\phibovey\OneDrive - Education Vaud\POBJ\Epreuves\Epreuves_2022_2023\Projet_CPP\DossiersEtudiants\JST\TEST2_S3_SHIFTEH_JONATHAN\FonctionBinaire.cpp(38,37): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
+  fonctionOR.cpp
+  mainFonctionBinaire.cpp
+  Génération de code en cours...
+C:\Users\phibovey\OneDrive - Education Vaud\POBJ\Epreuves\Epreuves_2022_2023\Projet_CPP\DossiersEtudiants\JST\TEST2_S3_SHIFTEH_JONATHAN\mainFonctionBinaire.cpp(66): error C4703: variable de pointeur locale potentiellement non initialisée 'Resolution' utilisée

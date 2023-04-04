@@ -1,7 +1,2 @@
-﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(452,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (test.vcxproj).  This can lead to incorrect clean and rebuild behavior.
-  fonctionAND.cpp
-  FonctionBinaire.cpp
-  fonctionOR.cpp
-  mainFonctionBinaire.cpp
-  Génération de code en cours...
-  test.vcxproj -> C:\Users\joamarques\Desktop\test\Debug\Test_JMS.exe
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: Le répertoire intermédiaire (Debug\) contient des fichiers partagés provenant d'un autre projet (test.vcxproj). Cela peut entraîner un comportement de nettoyage et de regénération incorrect.
+  test.vcxproj -> C:\Users\phibovey\OneDrive - Education Vaud\POBJ\Epreuves\Epreuves_2022_2023\Projet_CPP\DossiersEtudiants\JMS\test\Debug\Test_JMS.exe

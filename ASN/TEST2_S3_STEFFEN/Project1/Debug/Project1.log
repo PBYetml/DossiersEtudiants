@@ -1,5 +1,9 @@
-﻿  FonctionBinaire.cpp
-C:\Users\alesteffen\Desktop\TEST2_S3_STEFFEN\Project1\FonctionBinaire.cpp(49,19): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
-C:\Users\alesteffen\Desktop\TEST2_S3_STEFFEN\Project1\FonctionBinaire.cpp(67,19): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
+﻿  fonctionAND.cpp
+  FonctionBinaire.cpp
+C:\Users\phibovey\OneDrive - Education Vaud\POBJ\Epreuves\Epreuves_2022_2023\Projet_CPP\DossiersEtudiants\ASN\TEST2_S3_STEFFEN\Project1\FonctionBinaire.cpp(49,19): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
+C:\Users\phibovey\OneDrive - Education Vaud\POBJ\Epreuves\Epreuves_2022_2023\Projet_CPP\DossiersEtudiants\ASN\TEST2_S3_STEFFEN\Project1\FonctionBinaire.cpp(67,19): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
+  fonctionOR.cpp
+  mainFonctionBinaire.cpp
+  Génération de code en cours...
 mainFonctionBinaire.obj : error LNK2019: symbole externe non résolu "public: __thiscall FonctionBinaire::FonctionBinaire(void)" (??0FonctionBinaire@@QAE@XZ) référencé dans la fonction _main
-C:\Users\alesteffen\Desktop\TEST2_S3_STEFFEN\Debug\Project1.exe : fatal error LNK1120: 1 externes non résolus
+C:\Users\phibovey\OneDrive - Education Vaud\POBJ\Epreuves\Epreuves_2022_2023\Projet_CPP\DossiersEtudiants\ASN\TEST2_S3_STEFFEN\Debug\Project1.exe : fatal error LNK1120: 1 externes non résolus

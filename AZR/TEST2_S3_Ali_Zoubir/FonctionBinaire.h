@@ -35,6 +35,9 @@ class FonctionBinaire {
 	int Sortie;
 	int nbDigit;
 
+	//-- essai PBY -> le 29.03.2023
+	static int test3; 
+
     //-- méthode --// 
 	std::string ConversionBinaire(int valConvert);
 

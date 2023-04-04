@@ -1,2 +1,2 @@
-#TargetFrameworkVersion=v4.0:PlatformToolSet=v142:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native32Bit:WindowsTargetPlatformVersion=10.0
-Debug|Win32|O:\APPLICATIONS\Echanges_Eleves\ES\SLO2\Zoubir_Ali\Epreuve\POBJ\TEST2_S3_Ali_Zoubir\TEST2_S3_Ali_Zoubir\|
+PlatformToolSet=v142:VCToolArchitecture=Native32Bit:VCToolsVersion=14.29.30133:TargetPlatformVersion=10.0.19041.0:
+Debug|Win32|C:\Users\phibovey\OneDrive - Education Vaud\POBJ\Epreuves\Epreuves_2022_2023\Projet_CPP\DossiersEtudiants\AZR\TEST2_S3_Ali_Zoubir\TEST2_S3_Ali_Zoubir\|
