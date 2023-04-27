@@ -26,6 +26,7 @@
 
 ## Retour pour LDD
 1. retour vidéo 1 concernant les issues [#8](https://github.com/PBYetml/POBJ_SLO2_PRJ_CPP/issues/8) => voir [vidéo 1](https://www.swisstransfer.com/d/27e67462-3d98-410e-baad-fb1ce8d92977)
+2. retour vidéo 2 concernant les issues [#28](https://github.com/PBYetml/POBJ_SLO2_PRJ_CPP/issues/28) => voir [vidéo 2](https://www.swisstransfer.com/d/29c0b6cd-064e-4f6a-a549-84b53b895316)
 
 ## Retour pour MCC
 
