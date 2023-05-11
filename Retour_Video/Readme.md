@@ -23,7 +23,7 @@
 6. retour vidéo 1 concernant les issues [#63](https://github.com/PBYetml/POBJ_SLO2_PRJ_CPP/issues/27) => voir [vidéo 1]()
 
 ## Retour pour EFS
-1. retour vidéo 1 concernant les issues [#4](https://github.com/PBYetml/POBJ_SLO2_PRJ_CPP/issues/4) [#11](https://github.com/PBYetml/POBJ_SLO2_PRJ_CPP/issues/11) [#12](https://github.com/PBYetml/POBJ_SLO2_PRJ_CPP/issues/12)=> voir [vidéo 1](https://www.swisstransfer.com/d/7e1ef9d3-eb22-4f84-a117-11a92b96a987)
+1. retour vidéo 1 concernant les issues [#4](https://github.com/PBYetml/POBJ_SLO2_PRJ_CPP/issues/4) [#11](https://github.com/PBYetml/POBJ_SLO2_PRJ_CPP/issues/11) [#12](https://github.com/PBYetml/POBJ_SLO2_PRJ_CPP/issues/12)=> voir [vidéo 1](https://www.swisstransfer.com/d/255b866d-528a-4826-ae1b-e7a44a4dfbb7)
 2. retour vidéo 1 concernant les issues [#23](https://github.com/PBYetml/POBJ_SLO2_PRJ_CPP/issues/23) => voir [vidéo 1]()
 3. retour vidéo 1 concernant les issues [#35](https://github.com/PBYetml/POBJ_SLO2_PRJ_CPP/issues/35) => voir [vidéo 1]()
 4. retour vidéo 1 concernant les issues [#48](https://github.com/PBYetml/POBJ_SLO2_PRJ_CPP/issues/48) => voir [vidéo 1]()
@@ -33,7 +33,7 @@
 8. retour vidéo 1 concernant les issues [#97](https://github.com/PBYetml/POBJ_SLO2_PRJ_CPP/issues/97) => voir [vidéo 1]()
 
 ## Retour pour GSM
-1. retour vidéo 1 concernant les issues [#2](https://github.com/PBYetml/POBJ_SLO2_PRJ_CPP/issues/2) [#15](https://github.com/PBYetml/POBJ_SLO2_PRJ_CPP/issues/15) [#16](https://github.com/PBYetml/POBJ_SLO2_PRJ_CPP/issues/16) => voir [vidéo 1](https://www.swisstransfer.com/d/c34d8bb4-5dff-4034-ae34-440b1ae1ef97)
+1. retour vidéo 1 concernant les issues [#2](https://github.com/PBYetml/POBJ_SLO2_PRJ_CPP/issues/2) [#15](https://github.com/PBYetml/POBJ_SLO2_PRJ_CPP/issues/15) [#16](https://github.com/PBYetml/POBJ_SLO2_PRJ_CPP/issues/16) => voir [vidéo 1](https://www.swisstransfer.com/d/6ab5b76a-8c56-4352-ae42-bfd8e7842688)
 2. retour vidéo 1 concernant les issues [#19](https://github.com/PBYetml/POBJ_SLO2_PRJ_CPP/issues/19) => voir [vidéo 1]()
 3. retour vidéo 1 concernant les issues [#39](https://github.com/PBYetml/POBJ_SLO2_PRJ_CPP/issues/39) => voir [vidéo 1]()
 4. retour vidéo 1 concernant les issues [#44](https://github.com/PBYetml/POBJ_SLO2_PRJ_CPP/issues/44) => voir [vidéo 1]()
@@ -53,7 +53,7 @@
 8. retour vidéo 1 concernant les issues [#93](https://github.com/PBYetml/POBJ_SLO2_PRJ_CPP/issues/93) => voir [vidéo 1]()
 
 ## Retour pour JMS 
-1. retour vidéo 1 concernant les issues [#1](https://github.com/PBYetml/POBJ_SLO2_PRJ_CPP/issues/1) => voir [vidéo 1](https://www.swisstransfer.com/d/71cca2f5-8d5f-4cfb-b30d-f365dd224b8c)
+1. retour vidéo 1 concernant les issues [#1](https://github.com/PBYetml/POBJ_SLO2_PRJ_CPP/issues/1) => voir [vidéo 1](https://www.swisstransfer.com/d/ffc86579-f9ae-4f55-b1d3-d38951dc4fb9)
 2. retour vidéo 1 concernant les issues [#18](https://github.com/PBYetml/POBJ_SLO2_PRJ_CPP/issues/18) => voir [vidéo 1]()
 3. retour vidéo 1 concernant les issues [#40](https://github.com/PBYetml/POBJ_SLO2_PRJ_CPP/issues/40) => voir [vidéo 1]()
 4. retour vidéo 1 concernant les issues [#42](https://github.com/PBYetml/POBJ_SLO2_PRJ_CPP/issues/42) => voir [vidéo 1]()
@@ -64,7 +64,7 @@
 
 
 ## Retour pour JDZ
-1. retour vidéo 1 concernant les issues [#6](https://github.com/PBYetml/POBJ_SLO2_PRJ_CPP/issues/6) => voir [vidéo 1](https://www.swisstransfer.com/d/ce1a236a-4d53-4b97-98b4-4f372a3c8300)
+1. retour vidéo 1 concernant les issues [#6](https://github.com/PBYetml/POBJ_SLO2_PRJ_CPP/issues/6) => voir [vidéo 1](https://www.swisstransfer.com/d/470dde49-0186-4a61-a2d4-ecb785ce3849)
 2. retour vidéo 1 concernant les issues [#33](https://github.com/PBYetml/POBJ_SLO2_PRJ_CPP/issues/33) => voir [vidéo 1]()
 3. retour vidéo 1 concernant les issues [#52](https://github.com/PBYetml/POBJ_SLO2_PRJ_CPP/issues/52) => voir [vidéo 1]()
 4. retour vidéo 1 concernant les issues [#53](https://github.com/PBYetml/POBJ_SLO2_PRJ_CPP/issues/53) => voir [vidéo 1]()
