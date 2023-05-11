@@ -40,34 +40,30 @@ int main()
 
 	do
 	{
-		//-- message utilisateur : choix de la foncion binaire --//
-		//-- pour les mise en forme : utilisation la fonction "set"
-		cout << "Veuillez inserer le nombre de digit voulue :";
-
-
-
-		//-- récupération choix utilisateur --// 
-		cin >> choixFonctBin; 
-
-
-		//-- MAJ de l'objet en fonction du choix de l'utilistaeur --//
-		switch(choixFonctBin)
+		do
 		{
-		/*case AND: Resolution;
-			break;
+			//-- message utilisateur : choix de la foncion binaire --//
+			cout << "Veuillez choisir une fonction binaire: 1) Fonction AND" << endl;
+			cout << "2) Fonction OR" << endl;
 
-		case OR: Resolution;
-			break;
+			//-- récupération choix utilisateur --// 
+			cin >> choixFonctBin;
 
-			case XOR:
-			break;
-		*/
+			//-- MAJ de l'objet en fonction du choix de l'utilistaeur --//
+			switch (choixFonctBin)
+			{
+			case '1':
+				Resolution = new fonction;
+				break;
+			case '2':
+				Resolution = new;
+				break;
 			default:
-			break;
-		}
-
-		 
-
+				cout << "Veuillez choisir une fonction binaire dans la liste !" << endl << endl << endl;
+				choixFonctBin = 0;
+				break;
+			}
+		} while (choixFonctBin == 0);
 
 		//-- demande de valeur d'entrée (nb de digit, valeur A, valeur B)
 		//-- a décommenter ci-dessous !!!

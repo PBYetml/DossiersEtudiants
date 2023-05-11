@@ -1,4 +1,6 @@
 ﻿  FonctionBinaire.cpp
-C:\Users\truea\Documents\GitHub\POBJ_SLO2_PRJ_CPP\ASN\TEST2_S3_STEFFEN\Project1\FonctionBinaire.cpp(56,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-C:\Users\truea\Documents\GitHub\POBJ_SLO2_PRJ_CPP\ASN\TEST2_S3_STEFFEN\Project1\FonctionBinaire.cpp(74,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\truea\Documents\GitHub\POBJ_SLO2_PRJ_CPP\ASN\TEST2_S3_STEFFEN\Project1\FonctionBinaire.cpp(58,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\truea\Documents\GitHub\POBJ_SLO2_PRJ_CPP\ASN\TEST2_S3_STEFFEN\Project1\FonctionBinaire.cpp(76,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  fonctionAND.cpp
+  Generating Code...
   Project1.vcxproj -> C:\Users\truea\Documents\GitHub\POBJ_SLO2_PRJ_CPP\ASN\TEST2_S3_STEFFEN\Debug\Project1.exe
