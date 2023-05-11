@@ -24,6 +24,8 @@
 
 double maxVal;
 
+
+//Solve issue with Linker Tools Error LNK2019
 FonctionBinaire::FonctionBinaire()
 {}
 
