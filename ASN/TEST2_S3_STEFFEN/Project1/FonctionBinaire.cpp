@@ -24,6 +24,13 @@
 
 double maxVal;
 
+FonctionBinaire::FonctionBinaire()
+{}
+
+FonctionBinaire::~FonctionBinaire()
+{}
+
+
 
 void FonctionBinaire::InsererValeur()
 {
@@ -72,23 +79,31 @@ void FonctionBinaire::InsererValeur()
     }
 }
 
-/*std::string FonctionBinaire::ConversionBinaire()
+std::string FonctionBinaire::ConversionBinaire(int valConvert)
 {
-    //-- déclaration d'objet --// 
+    //-- déclaration d'objet --//
+    std::string strValBinaire;
     
     //-- déclaration de variable --//
+    int leftover = 0;
+    char caracter;
 
-    //-- boucle de convertion --// 
+    //-- boucle de convertion --//
+    while (valConvert > 0)
+    {
+        //-- conversion de l'info binaire à charactère --//
+        leftover = valConvert % 2;
 
-        //-- récuperation de l'info binaire --//
-        
-        //-- MAJ de la valeur à convertir --// 
-        
         //-- utilisation  de la table ASCII --// 
-        
+        caracter = leftover + '0';
+
+        //-- MAJ de la valeur à convertir --//
+        strValBinaire += caracter;
+        valConvert /= 2;
+    }
 	// retour de la chaîne de caractère => object string
-    //return(valBinaire);
-}*/
+    return(strValBinaire);
+}
 
 
 //-- FONCTION NON DEFINIE --// 

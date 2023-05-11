@@ -42,6 +42,7 @@ void fonctionAND::AfficherInfo()
     //-- info binaire --// 
     //-- appel de la méthode de convertion binaire --//
 
+
     //-- affichage de la valeur en binaire --// 
 
 
@@ -55,7 +56,8 @@ void fonctionAND::AfficherInfo()
 
     //-- appel de la méthode de convertion binaire --//
 
-    //-- affichage de la valeur en binaire --// 
+    //-- affichage de la valeur en binaire --//
+
 
 
 

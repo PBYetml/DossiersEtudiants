@@ -53,7 +53,7 @@ int main()
 		//-- MAJ de l'objet en fonction du choix de l'utilistaeur --//
 		switch(choixFonctBin)
 		{
-		case AND: Resolution;
+		/*case AND: Resolution;
 			break;
 
 		case OR: Resolution;
@@ -61,7 +61,7 @@ int main()
 
 			case XOR:
 			break;
-
+		*/
 			default:
 			break;
 		}

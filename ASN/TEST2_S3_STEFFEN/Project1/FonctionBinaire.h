@@ -10,7 +10,7 @@
 //-- énumération --// 
 enum e_FonctionBinaire { AND = 1, OR, XOR } ;   //choixFonctBin;
 
-class FonctionBinaire {
+class FonctionBinaire{
 
  public:
 	 //-- attribut --//
